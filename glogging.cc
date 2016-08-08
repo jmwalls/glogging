@@ -1,12 +1,3 @@
-/*
- * to build:
- *    $ make
- *
- * to run:
- *    $ ./glogging
- *    $ GLOG_v=N ./glogging  # to explicitly set debug level
- *
- */
 #include <iostream>
 #include <glog/logging.h>
 
